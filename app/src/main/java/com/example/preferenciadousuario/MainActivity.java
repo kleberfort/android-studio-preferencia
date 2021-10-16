@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
     private TextView textResultado;
     private int idade;
     private String nome;
+    private double salario;
 
     private static final String ARQUIVO_PREFERENCIA  = "ArquivoPreferencia";
 
