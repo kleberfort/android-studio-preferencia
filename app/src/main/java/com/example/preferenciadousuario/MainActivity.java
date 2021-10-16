@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
     private TextInputEditText editNome;
     private TextView textResultado;
     private int idade;
+    private String nome;
 
     private static final String ARQUIVO_PREFERENCIA  = "ArquivoPreferencia";
 
