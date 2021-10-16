@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
     private String nome;
     private double salario;
     private int tempoServico;
+    private int gol;
 
     private static final String ARQUIVO_PREFERENCIA  = "ArquivoPreferencia";
 
